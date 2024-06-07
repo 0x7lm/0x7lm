@@ -1,6 +1,6 @@
-### Hello! 👋
+### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> 
 
-I'm a Smart Contracts Auditer at [Searching for company.](https://github.com/audit4me) by day, and Batman by night . 🌙
+I'm a Smart Contracts developer & Auditer at [Mental Wealth Academy.](https://mwa-website.vercel.app/) by day, and Batman by night . 🌙
 
 - ⚙️ Daily languages: `.sol`, `.js`, `.ru`, `.sh`
 - 🌐 Active in the **Blockchain Community**
