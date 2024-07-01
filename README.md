@@ -5,7 +5,7 @@ I'm a Smart Contracts developer & Auditer at [Searching for company!.](https://g
 - ⚙️ Daily languages: `.sol`, `.js`, `.ru`, `.sh`
 - 🌐 Active in the **Blockchain Community**
 - 🥇 First place under the steel perlot challenge hacthone [@chainlink-adCraft](https://www.youtube.com/watch?v=gTt6mVfUCqM&t=569s)
-- 👨🏻‍💻 Design & Audit Smart Contract With [@audit4me](https://github.com/audit4me)
+- 👨🏻‍💻 Design & Audit Smart Contract With [@audit4me](https://github.com/0x7lm)
 - 💬 Let's chat about **Smartcontracts**, **CrossChain**, **Auditing**, and **Rust**.
 - 📧 Email me : 0x7llm@gmail.com
 
